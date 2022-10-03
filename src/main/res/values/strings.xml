@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MySplash2</string>
+    <string name="usuarioLabel">Usuario</string>
+    <string name="passwordLabel">Contraseña</string>
+    <string name="okLabel">Accesar</string>
+    <string name="olvideLabel">Olvidé mi contraseña</string>
+    <string name="ragistroLabel">Registro</string>
+    <string name="ragistrarLabel">Registrarse</string>
+</resources>
